@@ -13,7 +13,7 @@ chmod +x ffoxvscode.sh
 2. Run the script
 
 ```bash
-./script.sh
+./ffoxvscode.sh
 ```
 ## The script performs the following tasks:
 
